@@ -1,5 +1,4 @@
-# Mac_test
-new respository
+
 import pyttsx3
 import speech_recognition as sr
 import pywhatkit
